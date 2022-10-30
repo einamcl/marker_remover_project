@@ -1,4 +1,5 @@
-A simple tool for student to remove answer marking highlighted in yellow red or green tones.
+#### A simple tool for student to remove answer marking highlighted in yellow red or green tones.
+
 
 ## **Requierments:**
 1. Your computer must have Python installed on it.
@@ -7,8 +8,8 @@ A simple tool for student to remove answer marking highlighted in yellow red or 
 ## **How to use:**
 1. Download git reposetory and make sure enviorment is working.
 2. Put PDF file in .py folder location.
-3. Copy relative path of PDF
 4. Run program
-5. Paste relative path in input. PRESS ENTER.
-6. cleaned PDF file will be found in the same folder as .py file.
+5. Copy relative path of PDF
+6. Paste relative path in input. PRESS ENTER.
+7. Cleaned PDF file will be found in the same folder as .py file.
 

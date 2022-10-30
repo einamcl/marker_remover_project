@@ -5,7 +5,7 @@
 1. Your computer must have Python installed on it.
 2. You must have  pypdfium2 library installed ( pip install pypdfium2 ).
 
-## **How to use:**
+## **How To Use:**
 1. Download git reposetory and make sure enviorment is working.
 2. Put PDF file in .py folder location.
 4. Run program

@@ -7,7 +7,7 @@
 
 ## **How To Use:**
 1. Download git reposetory and make sure enviorment is working.
-2. Put PDF file in .py folder location.
+2. Put PDF file in the same folder as marker_remover_project.py.
 4. Run program
 5. Copy relative path of PDF
 6. Paste relative path in input. PRESS ENTER.

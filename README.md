@@ -1,4 +1,4 @@
-#### A simple tool for student to remove answer marking highlighted in yellow red or green tones, from PDF files.
+#### A simple tool for students that removes answer marking highlighted in yellow red or green tones, from PDF files.
 
 
 ## **Requierments:**
